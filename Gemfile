@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 # hiera-eyaml 3.0.0 mangles '|' block values
 gem 'hiera-eyaml', '< 3'
 gem 'librarian-puppet'
-gem 'puppet', '~> 5.5.6'
+gem 'puppet', '~> 6.13.0'
 gem 'puppet-lint', '~> 2.3.5'
 gem 'rake'
 
